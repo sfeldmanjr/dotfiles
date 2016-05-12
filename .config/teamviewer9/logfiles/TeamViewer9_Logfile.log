@@ -1,0 +1,321 @@
+2016/03/19 18:05:06.783 59896 3844331328 g0   TVGuiSlave: Running
+2016/03/19 18:05:06.785 59896 3745089280 g0   Audio: PulseAudio enabled
+2016/03/19 18:05:06.787 59896 3753481984 g0   XClipboard: Plain data for 'CLIP_TEMPORARY'
+2016/03/19 18:05:06.810 59896 3745089280 g0!! Audio: Unable to initialise PulseAudio, Errorcode=2
+2016/03/19 18:05:06.361    61    67 G0!! SetProcessStartupOptions(): SetProcessDEPPolicy() failed! LE=120, Errorcode=12180
+2016/03/19 18:05:06.614    61    67 G0   TVW X ErrorHandler org f6ddb86e, def f6c780d0 cur f601b632
+2016/03/19 18:05:06.616    61    67 G0   Wine: Wine DLL initialized
+2016/03/19 18:05:06.616    61    67 G0   Wine: wine-1.6
+
+2016/03/19 18:05:06.618    61    67 G0   TVW SID0: SpawnSlave: TVGuiSlave.64
+2016/03/19 18:05:06.719    61    67 G0!! TVW ObserveFork: read: 0, Errorcode=12180
+2016/03/19 18:05:06.744    61    67 G0   TVW ObserveFork: OK
+2016/03/19 18:05:06.744    61    67 G0   Wine: Spawned slave process
+2016/03/19 18:05:06.744    61    67 G0   Starting GUI master
+2016/03/19 18:05:06.810    61    67 G0   Slave connected to GUI master
+2016/03/19 18:05:06.822    61    67 G0   Win32_GUI::FontReallyExists: 'Segoe UI' found 0 matches.
+2016/03/19 18:05:06.823    61    67 G0   Win32_GUI::FontReallyExists: 'Liberation Sans' found 0 matches.
+2016/03/19 18:05:06.827    61    67 G0   Monitors: X11 Windowing System, \\.\DISPLAY1, 1024x768 (0,0), flags=21
+2016/03/19 18:05:06.827    61    67 G0   Opening local TCP connection to 127.0.0.1:5939
+2016/03/19 18:05:06.828    61    67 G0   Local TCP connection established
+2016/03/19 18:05:06.828    61    67 G0   Process ID:  L 59702 /  W 61
+2016/03/19 18:05:06.908    61    67 G0   Received Control_InitIPC_Response processtype=1
+2016/03/19 18:05:06.908    61    67 G0   Received Control_InitIPC_Response runningProcesses=3
+2016/03/19 18:05:06.908    61    67 G0   Control_InitIPC_Response: all processes 3 completely initialized
+2016/03/19 18:05:06.918    61    67 G0   ProxySearch: no PAC script detected via WPAD
+2016/03/19 18:05:06.918    61    67 G0   ProxySearch: no PAC script detected via WPAD
+2016/03/19 18:05:08.126    61    62 G0   TVW X Error 9 on ???, Req 55.0 (#702 r27262978): BadDrawable (invalid Pixmap or Window parameter)
+2016/03/19 18:05:08.126    61    62 G0   TVW X Error 13 on ???, Req 59.0 (#703 r27262978): BadGC (invalid GC parameter)
+2016/03/19 18:05:08.126    61    62 G0   TVW X Error 13 on ???, Req 59.0 (#704 r27262978): BadGC (invalid GC parameter)
+2016/03/19 18:05:08.126    61    62 G0   TVW X Error 13 on ???, Req 59.0 (#705 r27262978): BadGC (invalid GC parameter)
+2016/03/19 18:05:08.126    61    62 G0   TVW X Error 13 on ???, Req 59.0 (#706 r27262978): BadGC (invalid GC parameter)
+2016/03/19 18:05:08.126    61    62 G0   TVW X Error 13 on ???, Req 59.0 (#707 r27262978): BadGC (invalid GC parameter)
+2016/03/19 18:05:08.126    61    62 G0   TVW X Error 13 on ???, Req 59.0 (#708 r27262978): BadGC (invalid GC parameter)
+2016/03/19 18:05:08.126    61    62 G0   TVW X Error 13 on ???, Req 59.0 (#709 r27262978): BadGC (invalid GC parameter)
+2016/03/19 18:05:08.126    61    62 G0   TVW X Error 13 on ???, Req 59.0 (#710 r27262978): BadGC (invalid GC parameter)
+2016/03/19 18:05:08.126    61    62 G0   TVW X Error 13 on ???, Req 56.0 (#715 r453): BadGC (invalid GC parameter)
+2016/03/19 18:05:08.127    61    62 G0   TVW X Error 13 on ???, Req 56.0 (#716 r453): BadGC (invalid GC parameter)
+2016/03/19 18:05:08.127    61    62 G0   TVW X Error 13 on ???, Req 60.0 (#717 r453): BadGC (invalid GC parameter)
+2016/03/19 18:05:08.128    61    62 G0!! GetSimpleDisplayCertNameFromFile: File 'C:\TeamViewer\tv_w32.dll' does not exist., Errorcode=2
+2016/03/19 18:05:08.128    61    62 G0!! VerifyTeamViewerSignature() : WinVerifyTrust failed, result=2, Errorcode=2
+2016/03/19 18:05:08.128    61    62 G0!! MachineHooks: Library not found, Errorcode=2
+2016/03/19 18:05:08.132    61    62 G0   MachineID m=0 - 0
+2016/03/19 18:05:08.158    61    62 G0   TVW X Error 8 on ???, Req 42.0 (#340 r27262985): BadMatch (invalid parameter attributes)
+2016/03/19 18:05:08.267    61    62 G0!! DragDropRegistration: could not register window, HR=80040155
+2016/03/19 18:05:08.267    61    62 G0!! GetIEVersion() exception: Couldn't find Registry Key Software\Microsoft\Internet Explorer
+2016/03/19 18:05:08.267    61    62 G0!  IntroScreen: not available because IE version is invalid
+2016/03/19 18:05:08.299    61    62 G0   Tray created!
+2016/03/19 18:05:08.299    61    62 G0   CMainWindow::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=589253479 ka=0 lanAllowed=0 lanOnly=0 networkState=1
+2016/03/19 18:05:08.313    61    62 G0   P_FORCE_WINSTATE_ONCE = WinState_Undefined
+2016/03/19 18:05:09.032    61    71 G0   TAF: Proxy received: IP:Port=
+2016/03/19 18:05:09.158    61    71 G0   TAF: Received answer is empty.
+2016/03/19 18:05:17.287    61    64 G0   Connection incoming, sessionID = 390725308
+2016/03/19 18:05:17.708    61    64 G0   Received Control_InitIPC processtype=4
+2016/03/19 18:05:17.713    61    62 G0   Wine: HwndToWindow 000100E4 -> 1a00008
+2016/03/19 18:05:17.713    61    62 G0   Wine: HwndToWindow 000100E6 -> 1a00009
+2016/03/19 18:05:17.718    61    20 G0   TAF: Proxy received: IP:Port=
+2016/03/19 18:05:17.835 59986 4125092672 D0   Connection incoming, sessionID = 390725308
+2016/03/19 18:05:17.835 59986 4143246144 D0   CLogin::run()
+2016/03/19 18:05:17.835 59986 4143246144 D0   CLogin::NegotiateVersionServer()
+2016/03/19 18:05:17.844    61    64 G0!! SetForegroundWindowForce: AttachThreadInput(TRUE) failed: 87, Errorcode=87
+2016/03/19 18:05:17.845    61    64 G0!! SetForegroundWindowForce: AttachThreadInput(FALSE) failed: 87, Errorcode=87
+2016/03/19 18:05:17.853    61    20 G0   TAF: Received answer is empty.
+2016/03/19 18:05:17.959 59986 4143246144 D0   CLogin::CheckIfConnectionIsAllowed()
+2016/03/19 18:05:17.963 59986 4143246144 D0   CLogin::AuthenticateServer()
+2016/03/19 18:05:19.357 59986 4143246144 D0   MachineID m=0 - 1
+2016/03/19 18:05:19.391 59986 4143246144 D0   CLogin::run(): ConnectionMode == 1
+2016/03/19 18:05:19.392 59986 4143246144 D0   CServerThread::Factory(PseudoSocket)
+2016/03/19 18:05:19.393 59986 4143246144 D0   X11Keyboard: Initialized XTest (event=0, error=0, version=2.2)
+2016/03/19 18:05:19.393 59986 4143246144 D0   X11Keyboard: Initialized Xkb (event=85, error=137, version=1.0
+2016/03/19 18:05:19.393 59986 4143246144 D0   X11Keyboard::ClearKeymap
+2016/03/19 18:05:19.393 59986 4143246144 D0   XkbClientMapFree::operator()
+2016/03/19 18:05:19.393 59986 4143246144 D0   X11Keyboard::ClearKeymap
+2016/03/19 18:05:19.393 59986 4143246144 D0   XkbClientMapFree::operator()
+2016/03/19 18:05:19.393 59986 4143246144 D0   CServer::ChangeToServermode: loggedin = 1, locked = 0
+2016/03/19 18:05:19.393 59986 4143246144 D0   CLogin::run() leave
+2016/03/19 18:05:19.393 59986 4097825600 D0   ServerThread started
+2016/03/19 18:05:19.393 59986 4097825600 D0   ServerThread: Waiting for ParticipantManager synchronization
+2016/03/19 18:05:19.393 59986 4106218304 D0   DesktopThread started, number of Cores: 1
+2016/03/19 18:05:19.644 59986 4125092672 D0   CParticipantManagerBase participant  (ID [589253479,390725308]) was added with the role 3
+2016/03/19 18:05:19.644 59986 4125092672 D0   New Participant added in CParticipantManager  ([589253479,390725308])
+2016/03/19 18:05:19.644 59986 4125092672 D0   CParticipantManagerBase participant  (ID [375624246,284767343]) was added with the role 6
+2016/03/19 18:05:19.644 59986 4125092672 D0   New Participant added in CParticipantManager  ([375624246,284767343])
+2016/03/19 18:05:19.645 59986 4097825600 D0   Resetting Cache. Cache disabled.
+2016/03/19 18:05:19.648    61    64 G0   CServerSessionRecorder::AutoStart: AutoStart recording function called and not activated (auto recording of incoming RemoteControl not activated)
+2016/03/19 18:05:19.648    61    64 G0   WindowObserverGUI::SessionStart: 1; type: 1
+2016/03/19 18:05:19.651    61    64 G0   CParticipantManagerBase participant  (ID [589253479,390725308]) was added with the role 3
+2016/03/19 18:05:19.651    61    64 G0   New Participant added in CParticipantManager  ([589253479,390725308])
+2016/03/19 18:05:19.652    61    64 G0   CParticipantManagerBase participant  (ID [375624246,284767343]) was added with the role 6
+2016/03/19 18:05:19.652    61    64 G0   New Participant added in CParticipantManager  ([375624246,284767343])
+2016/03/19 18:05:19.692    61    64 G0   DT: Sending InitSignal to DT 629238676
+2016/03/19 18:05:19.692    61    64 G0   DataTransceiverTVStreams::SendFileInfos: DT:629238676 NumFiles:1
+2016/03/19 18:05:19.757    61    64 G0   CParticipantManagerBase::CheckAndSubscribeNewStream(): Subscribe stream now streamID=2 type=5 required=1 supported=1
+2016/03/19 18:05:19.757    61    64 G0   CServerSessionRecorder::AutoStart: AutoStart recording function called and not activated (auto recording of incoming RemoteControl not activated)
+2016/03/19 18:05:19.757    61    64 G0   DT: Sending InitSignal to DT 629238676
+2016/03/19 18:05:19.757    61    64 G0   DataTransceiverTVStreams::SendFileInfos: DT:629238676 NumFiles:1
+2016/03/19 18:05:19.799 59986 4097825600 D0   SendInfo() executed.
+2016/03/19 18:05:19.799 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 0, Errorcode=11
+2016/03/19 18:05:19.799 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows() failed!, Errorcode=11
+2016/03/19 18:05:19.839    61    64 G0   ServerThreadInfo connected to 375624246, client version is 9.0.41110 , OS=13
+2016/03/19 18:05:19.968    61    62 G0   Wine: MakeSticky 000100E4 
+2016/03/19 18:05:20.177 59986 4097825600 D0   SendInfo() executed.
+2016/03/19 18:05:20.177 59986 4097825600 D0   ServerThread connected to 375624246, client version is 9.0.41110 , OS=13
+2016/03/19 18:05:20.178 59986 4097825600 D0   DisplayQuality m=0, bpp=8, q=100, echo=-1, conRating=0, cpu=3497
+2016/03/19 18:05:20.178 59986 4097825600 D0   ConnectionAccessSettings: RemoteControl: CAccessControl: RemoteControl: Allowed FileTransfer: Allowed ControlRemoteTV: Allowed SwitchSides: Allowed AllowDisableRemoteInput: Allowed AllowVPN: Allowed AllowPartnerViewDesktop: Allowed ShareMyFiles: Allowed ShareFilesWithMe: Allowed PrintOnMyPrinters: Allowed PrintOnRemotePrinters: Allowed
+2016/03/19 18:05:20.178 59986 4106218304 D0   Initialised MIT-SHM extension (base=65 error=128)
+2016/03/19 18:05:20.178 59986 4106218304 D0   Initialised XDamage extension (base=91 error=151)
+2016/03/19 18:05:20.178 59986 4106218304 D0   Initialised X Shared Memory Grabbing - 1024x768, bpp=32
+2016/03/19 18:05:20.178 59986 4106218304 D0   ==== Close Desktop! ====
+2016/03/19 18:05:20.179 59986 4106218304 D0   ==== Re-Open Desktop! ====
+2016/03/19 18:05:20.179 59986 4106218304 D0   Initialised XFixes extension (base=87 error=140)
+2016/03/19 18:05:20.179 59986 4106218304 D0   Initialised MIT-SHM extension (base=65 error=128)
+2016/03/19 18:05:20.179 59986 4106218304 D0   Initialised XDamage extension (base=91 error=151)
+2016/03/19 18:05:20.179 59986 4106218304 D0   Initialised X Shared Memory Grabbing - 1024x768, bpp=32
+2016/03/19 18:05:20.181    61    64 G0   ServerThreadInfo connected to 375624246, client version is 9.0.41110 , OS=13
+2016/03/19 18:05:20.191 59986 4097825600 D0   CServerThread::CheckForValidGUIWindows() ok
+2016/03/19 18:05:20.191 59986 4097825600 D0   ServerThread connected to 375624246, client version is 9.0.41110 , OS=13
+2016/03/19 18:05:20.192 59986 4097825600 D0   DisplayQuality m=0, bpp=8, q=100, echo=-1, conRating=0, cpu=3497
+2016/03/19 18:05:20.192 59986 4125092672 D0   ServerThread: Registered Clipboard Stream (0000000b)
+2016/03/19 18:05:20.194 59986 4106218304 D0   first fullscreen grab time in ms = 15
+2016/03/19 18:05:20.202 59986 4097825600 D0   Resetting Cache. Cache disabled.
+2016/03/19 18:05:20.223 59986 4143246144 D0   CScreenStreamSender::SendDisplayParams() 1024x768x8 to 3
+2016/03/19 18:05:20.294 59986 4097825600 D0   Received cache version 2 from [375624246,284767343]
+2016/03/19 18:05:20.305 59986 4143246144 D0   Caching activated, partners version is 2, own version is 2
+2016/03/19 18:05:21.198    61    64 G0   Display buffers allocated: width = 1024, height = 768, bpp = 8
+2016/03/19 18:05:21.198    61    64 G0   RA: Creating audio server, max bandwidth 
+2016/03/19 18:05:21.198    61    64 G0   RA: Change quality by capacity (350)
+2016/03/19 18:05:21.198    61    64 G0   RA: Audio quality set to 32000
+2016/03/19 18:05:21.198    61    64 G0   RA: RemoteAudioSender get started
+2016/03/19 18:05:21.198    61    64 G0   RA: Control stream will get created
+2016/03/19 18:05:21.200    61    64 G0   RA: Controlstream succesfull registered with id 12
+2016/03/19 18:05:24.758 59986 4097825600 D0   DisplayQuality m=0, bpp=32, q=95, echo=-1, conRating=3, cpu=3497
+2016/03/19 18:05:24.788 59986 4143246144 D0   Tile caching activated
+2016/03/19 18:05:24.788    61    64 G0   Display buffers allocated: width = 1024, height = 768, bpp = 32
+2016/03/19 18:05:24.789    61    64 G0   RA: RemoteAudioSender get started
+2016/03/19 18:05:24.789 59986 4143246144 D0   CScreenStreamSender::SendDisplayParams() 1024x768x32 to 3
+2016/03/19 18:05:30.745 59986 4125092672 D0   Estimated RTT 0 ms (reliability = 2)
+2016/03/19 18:05:30.745    61    64 G0   RA: Change quality by capacity (250131)
+2016/03/19 18:05:30.745    61    64 G0   RA: Audio quality set to 125000
+2016/03/19 18:05:30.745    61    64 G0   RA: Control stream will get created
+2016/03/19 18:05:30.745    61    64 G0   RA: Controlstream succesfull registered with id 13
+2016/03/19 18:05:30.746 59986 4125092672 D0   Estimated bandwidth capacity 250131 kbit/s (reliability = 2)
+2016/03/19 18:07:39.072 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 1, Errorcode=11
+2016/03/19 18:07:39.072 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows() failed!, Errorcode=11
+2016/03/19 18:07:39.182 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 2, Errorcode=11
+2016/03/19 18:07:39.292 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 3, Errorcode=11
+2016/03/19 18:07:39.402 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 4, Errorcode=11
+2016/03/19 18:07:39.511 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 5, Errorcode=11
+2016/03/19 18:07:39.621 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 6, Errorcode=11
+2016/03/19 18:07:39.730 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 7, Errorcode=11
+2016/03/19 18:07:39.840 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 8, Errorcode=11
+2016/03/19 18:07:39.949 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 9, Errorcode=11
+2016/03/19 18:07:40.058 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 10, Errorcode=11
+2016/03/19 18:07:41.156 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 20, Errorcode=11
+2016/03/19 18:07:41.592 59986 4097825600 D0   CServerThread::CheckForValidGUIWindows() ok
+2016/03/19 18:07:56.699 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows() failed!, Errorcode=11
+2016/03/19 18:07:57.357 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 30, Errorcode=11
+2016/03/19 18:07:58.445 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 40, Errorcode=11
+2016/03/19 18:07:58.664 59986 4097825600 D0   CServerThread::CheckForValidGUIWindows() ok
+2016/03/19 18:08:24.839 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows() failed!, Errorcode=11
+2016/03/19 18:08:25.704 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 50, Errorcode=11
+2016/03/19 18:08:26.791 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 60, Errorcode=11
+2016/03/19 18:08:27.878 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 70, Errorcode=11
+2016/03/19 18:08:28.975 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 80, Errorcode=11
+2016/03/19 18:08:30.064 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 90, Errorcode=11
+2016/03/19 18:08:31.151 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 100, Errorcode=11
+2016/03/19 18:08:32.232 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 110, Errorcode=11
+2016/03/19 18:08:33.326 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 120, Errorcode=11
+2016/03/19 18:08:34.406 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 130, Errorcode=11
+2016/03/19 18:08:35.496 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 140, Errorcode=11
+2016/03/19 18:08:36.583 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 150, Errorcode=11
+2016/03/19 18:08:37.672 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 160, Errorcode=11
+2016/03/19 18:08:38.768 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 170, Errorcode=11
+2016/03/19 18:08:39.863 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 180, Errorcode=11
+2016/03/19 18:08:40.963 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 190, Errorcode=11
+2016/03/19 18:08:42.061 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 200, Errorcode=11
+2016/03/19 18:08:43.156 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 210, Errorcode=11
+2016/03/19 18:08:44.252 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 220, Errorcode=11
+2016/03/19 18:08:45.352 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 230, Errorcode=11
+2016/03/19 18:08:46.450 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 240, Errorcode=11
+2016/03/19 18:08:47.549 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 250, Errorcode=11
+2016/03/19 18:08:48.637 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 260, Errorcode=11
+2016/03/19 18:08:49.737 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 270, Errorcode=11
+2016/03/19 18:08:50.833 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 280, Errorcode=11
+2016/03/19 18:08:51.924 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 290, Errorcode=11
+2016/03/19 18:08:53.022 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 300, Errorcode=11
+2016/03/19 18:08:54.117 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 310, Errorcode=11
+2016/03/19 18:08:55.210 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 320, Errorcode=11
+2016/03/19 18:08:56.300 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 330, Errorcode=11
+2016/03/19 18:08:57.398 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 340, Errorcode=11
+2016/03/19 18:08:58.483 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 350, Errorcode=11
+2016/03/19 18:08:59.571 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 360, Errorcode=11
+2016/03/19 18:09:00.669 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 370, Errorcode=11
+2016/03/19 18:09:01.769 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 380, Errorcode=11
+2016/03/19 18:09:02.858 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 390, Errorcode=11
+2016/03/19 18:09:03.957 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 400, Errorcode=11
+2016/03/19 18:09:05.045 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 410, Errorcode=11
+2016/03/19 18:09:06.132 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 420, Errorcode=11
+2016/03/19 18:09:07.232 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 430, Errorcode=11
+2016/03/19 18:09:08.329 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 440, Errorcode=11
+2016/03/19 18:09:09.397 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 450, Errorcode=11
+2016/03/19 18:09:10.483 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 460, Errorcode=11
+2016/03/19 18:09:11.572 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 470, Errorcode=11
+2016/03/19 18:09:12.670 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 480, Errorcode=11
+2016/03/19 18:09:13.756 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 490, Errorcode=11
+2016/03/19 18:09:14.854 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 500, Errorcode=11
+2016/03/19 18:09:15.956 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 510, Errorcode=11
+2016/03/19 18:09:17.056 59986 4097825600 D0!! CServerThread::CheckForValidGUIWindows: n(27262984) !IsViewable, m(27262985) !IsViewable cnt 520, Errorcode=11
+2016/03/19 18:09:17.167 59986 4097825600 D0   ServerThread to 375624246 finished
+2016/03/19 18:09:17.167 59986 4133485376 D0   ==== Close Desktop! ====
+2016/03/19 18:09:17.168 59986 4106218304 D0   DesktopThread ended
+2016/03/19 18:09:17.168 59986 4133485376 D0   DesktopThread stopped
+2016/03/19 18:09:17.659 59986 4125092672 D0   Received Control_TerminateProcess
+2016/03/19 18:09:17.659 59986 4147177216 D0   ==== Desktop closed already! ====
+2016/03/19 18:09:17.659 59986 4147177216 D0   CServer::ShutDown: remoteControlSessionPresent=1, fromLocal=0, autoLockOnSessionEnd=0
+2016/03/19 18:09:17.659 59986 4125092672 D0   CTcpProcessConnector::HandleRead(): Socket gracefully closed (PID=59587)
+2016/03/19 18:09:17.659 59986 4125092672 D0   CTcpProcessConnector::CloseConnection(): PID=59587
+2016/03/19 18:09:17.659 59986 4125092672 D0!  CInterProcess::EventFunction(): IPC-Connection Closed
+2016/03/19 18:09:17.659 59986 4125092672 D0   CTcpProcessConnector::CloseConnection(): PID=59587
+2016/03/19 18:09:17.659 59986 4125092672 D0!! CTcpProcessConnector::CloseConnection(): Shutdown socket returned error 107: Transport endpoint is not connected, Errorcode=107
+2016/03/19 18:09:18.572    61    64 G0   RA: RemoteAudioSender get stopped
+2016/03/19 18:09:18.572    61    64 G0   RA: RemoteAudioSender get stopped
+2016/03/19 18:09:18.574    61    64 G0   WindowObserverGUI::SessionEnded: 0
+2016/03/19 18:09:18.576    61    64 G0!! CCGUIStateManager::GetStatusMessageText() exception: boost::too_many_args: format-string referred to less arguments than were passed
+2016/03/19 18:09:24.653    61    64 G0   Connection incoming, sessionID = 2087897858
+2016/03/19 18:09:24.803    61    64 G0   Received Control_InitIPC processtype=4
+2016/03/19 18:09:24.807    61    62 G0   Wine: HwndToWindow 000100E4 -> 1a00008
+2016/03/19 18:09:24.807    61    62 G0   Wine: HwndToWindow 000100E6 -> 1a00009
+2016/03/19 18:09:24.811    61    17 G0   TAF: Proxy received: IP:Port=
+2016/03/19 18:09:24.911    61    17 G0   TAF: Received answer is empty.
+2016/03/19 18:09:24.931 61664 4125092672 D0   Connection incoming, sessionID = 2087897858
+2016/03/19 18:09:24.931 61664 4143815488 D0   CLogin::run()
+2016/03/19 18:09:24.935 61664 4143815488 D0   CLogin::NegotiateVersionServer()
+2016/03/19 18:09:25.412 61664 4143815488 D0   CLogin::CheckIfConnectionIsAllowed()
+2016/03/19 18:09:25.451 61664 4143815488 D0   CLogin::AuthenticateServer()
+2016/03/19 18:09:29.930 61664 4143815488 D0   MachineID m=0 - 1
+2016/03/19 18:09:30.170 61664 4143815488 D0   CLogin::run(): ConnectionMode == 1
+2016/03/19 18:09:30.172 61664 4143815488 D0   CServerThread::Factory(PseudoSocket)
+2016/03/19 18:09:30.172 61664 4143815488 D0   X11Keyboard: Initialized XTest (event=0, error=0, version=2.2)
+2016/03/19 18:09:30.172 61664 4143815488 D0   X11Keyboard: Initialized Xkb (event=85, error=137, version=1.0
+2016/03/19 18:09:30.172 61664 4143815488 D0   X11Keyboard::ClearKeymap
+2016/03/19 18:09:30.172 61664 4143815488 D0   XkbClientMapFree::operator()
+2016/03/19 18:09:30.172 61664 4143815488 D0   X11Keyboard::ClearKeymap
+2016/03/19 18:09:30.172 61664 4143815488 D0   XkbClientMapFree::operator()
+2016/03/19 18:09:30.172 61664 4143815488 D0   CServer::ChangeToServermode: loggedin = 1, locked = 0
+2016/03/19 18:09:30.172 61664 4143815488 D0   CLogin::run() leave
+2016/03/19 18:09:30.173 61664 4097825600 D0   ServerThread started
+2016/03/19 18:09:30.173 61664 4097825600 D0   ServerThread: Waiting for ParticipantManager synchronization
+2016/03/19 18:09:30.173 61664 4106218304 D0   DesktopThread started, number of Cores: 1
+2016/03/19 18:09:30.207    61    64 G0   CServerSessionRecorder::AutoStart: AutoStart recording function called and not activated (auto recording of incoming RemoteControl not activated)
+2016/03/19 18:09:30.207    61    64 G0   WindowObserverGUI::SessionStart: 1; type: 1
+2016/03/19 18:09:30.283    61    64 G0   CParticipantManagerBase participant  (ID [589253479,2087897858]) was added with the role 3
+2016/03/19 18:09:30.283    61    64 G0   New Participant added in CParticipantManager  ([589253479,2087897858])
+2016/03/19 18:09:30.283    61    64 G0   CParticipantManagerBase participant  (ID [589106556,1409150999]) was added with the role 6
+2016/03/19 18:09:30.283    61    64 G0   New Participant added in CParticipantManager  ([589106556,1409150999])
+2016/03/19 18:09:30.284 61664 4125092672 D0   CParticipantManagerBase participant  (ID [589253479,2087897858]) was added with the role 3
+2016/03/19 18:09:30.284 61664 4125092672 D0   New Participant added in CParticipantManager  ([589253479,2087897858])
+2016/03/19 18:09:30.284 61664 4125092672 D0   CParticipantManagerBase participant  (ID [589106556,1409150999]) was added with the role 6
+2016/03/19 18:09:30.284 61664 4125092672 D0   New Participant added in CParticipantManager  ([589106556,1409150999])
+2016/03/19 18:09:30.323 61664 4125092672 D0   CParticipantManagerBase InteractionDefaults arrived : CInteractionDefaults = (0) [ 0,2,0,0,2,0,0]
+2016/03/19 18:09:30.323 61664 4097825600 D0   Resetting Cache. Cache disabled.
+2016/03/19 18:09:30.412    61    62 G0   Wine: MakeSticky 000100E4 
+2016/03/19 18:09:31.232    61    64 G0   DT: Sending InitSignal to DT 2051724583
+2016/03/19 18:09:31.232    61    64 G0   DataTransceiverTVStreams::SendFileInfos: DT:2051724583 NumFiles:1
+2016/03/19 18:09:31.237    61    64 G0   CParticipantManagerBase::CheckAndSubscribeNewStream(): Subscribe stream now streamID=3 type=5 required=1 supported=1
+2016/03/19 18:09:31.237    61    64 G0   CServerSessionRecorder::AutoStart: AutoStart recording function called and not activated (auto recording of incoming RemoteControl not activated)
+2016/03/19 18:09:31.237    61    64 G0   DT: Sending InitSignal to DT 2051724583
+2016/03/19 18:09:31.237    61    64 G0   DataTransceiverTVStreams::SendFileInfos: DT:2051724583 NumFiles:1
+2016/03/19 18:09:31.237    61    64 G0   CParticipantManagerBase InteractionDefaults arrived : CInteractionDefaults = (0) [ 0,2,0,0,2,0,0]
+2016/03/19 18:09:31.275 61664 4097825600 D0   SendInfo() executed.
+2016/03/19 18:09:31.315 61664 4097825600 D0   SendInfo() executed.
+2016/03/19 18:09:31.401    61    64 G0   ServerThreadInfo connected to 589106556, client version is 9.0.41110 , OS=13
+2016/03/19 18:09:31.402    61    64 G0   ServerThreadInfo connected to 589106556, client version is 9.0.41110 , OS=13
+2016/03/19 18:09:31.403 61664 4097825600 D0   ServerThread connected to 589106556, client version is 9.0.41110 , OS=13
+2016/03/19 18:09:31.403 61664 4097825600 D0   DisplayQuality m=0, bpp=8, q=100, echo=-1, conRating=0, cpu=3497
+2016/03/19 18:09:31.403 61664 4097825600 D0   ConnectionAccessSettings: RemoteControl: CAccessControl: RemoteControl: Allowed FileTransfer: Allowed ControlRemoteTV: Allowed SwitchSides: Allowed AllowDisableRemoteInput: Allowed AllowVPN: Allowed AllowPartnerViewDesktop: Allowed ShareMyFiles: Allowed ShareFilesWithMe: Allowed PrintOnMyPrinters: Allowed PrintOnRemotePrinters: Allowed
+2016/03/19 18:09:31.403 61664 4097825600 D0   ServerThread connected to 589106556, client version is 9.0.41110 , OS=13
+2016/03/19 18:09:31.403 61664 4097825600 D0   DisplayQuality m=0, bpp=8, q=100, echo=-1, conRating=0, cpu=3497
+2016/03/19 18:09:31.403 61664 4106218304 D0   Initialised MIT-SHM extension (base=65 error=128)
+2016/03/19 18:09:31.404 61664 4106218304 D0   Initialised XDamage extension (base=91 error=151)
+2016/03/19 18:09:31.404 61664 4106218304 D0   Initialised X Shared Memory Grabbing - 1024x768, bpp=32
+2016/03/19 18:09:31.404 61664 4106218304 D0   ==== Close Desktop! ====
+2016/03/19 18:09:31.404 61664 4106218304 D0   ==== Re-Open Desktop! ====
+2016/03/19 18:09:31.404 61664 4106218304 D0   Initialised XFixes extension (base=87 error=140)
+2016/03/19 18:09:31.404 61664 4106218304 D0   Initialised MIT-SHM extension (base=65 error=128)
+2016/03/19 18:09:31.404 61664 4106218304 D0   Initialised XDamage extension (base=91 error=151)
+2016/03/19 18:09:31.404 61664 4106218304 D0   Initialised X Shared Memory Grabbing - 1024x768, bpp=32
+2016/03/19 18:09:31.411 61664 4106218304 D0   first fullscreen grab time in ms = 7
+2016/03/19 18:09:31.440 61664 4125092672 D0   ServerThread: Registered Clipboard Stream (0000000a)
+2016/03/19 18:09:31.490 61664 4097825600 D0   Resetting Cache. Cache disabled.
+2016/03/19 18:09:31.493 61664 4143815488 D0   CScreenStreamSender::SendDisplayParams() 1024x768x8 to 3
+2016/03/19 18:09:31.613 61664 4097825600 D0   Received cache version 2 from [589106556,1409150999]
+2016/03/19 18:09:31.615 61664 4143815488 D0   Caching activated, partners version is 2, own version is 2
+2016/03/19 18:09:32.419    61    64 G0   Display buffers allocated: width = 1024, height = 768, bpp = 8
+2016/03/19 18:09:32.419    61    64 G0   RA: Creating audio server, max bandwidth 
+2016/03/19 18:09:32.419    61    64 G0   RA: Change quality by capacity (350)
+2016/03/19 18:09:32.419    61    64 G0   RA: Audio quality set to 32000
+2016/03/19 18:09:32.419    61    64 G0   RA: RemoteAudioSender get started
+2016/03/19 18:09:32.420    61    64 G0   RA: Control stream will get created
+2016/03/19 18:09:32.421    61    64 G0   RA: Controlstream succesfull registered with id 12
+2016/03/19 18:09:37.410 61664 4097825600 D0   ServerThread to 589106556 finished
+2016/03/19 18:09:37.411 61664 4133485376 D0   ==== Close Desktop! ====
+2016/03/19 18:09:37.411 61664 4106218304 D0   DesktopThread ended
+2016/03/19 18:09:37.411 61664 4133485376 D0   DesktopThread stopped
+2016/03/19 18:09:37.823 61664 4125092672 D0   Received Control_TerminateProcess
+2016/03/19 18:09:37.823 61664 4147746560 D0   ==== Desktop closed already! ====
+2016/03/19 18:09:37.823 61664 4147746560 D0   CServer::ShutDown: remoteControlSessionPresent=1, fromLocal=0, autoLockOnSessionEnd=0
+2016/03/19 18:09:37.823 61664 4125092672 D0   CTcpProcessConnector::HandleRead(): Socket gracefully closed (PID=59587)
+2016/03/19 18:09:37.823 61664 4125092672 D0   CTcpProcessConnector::CloseConnection(): PID=59587
+2016/03/19 18:09:37.823 61664 4125092672 D0!  CInterProcess::EventFunction(): IPC-Connection Closed
+2016/03/19 18:09:37.823 61664 4125092672 D0   CTcpProcessConnector::CloseConnection(): PID=59587
+2016/03/19 18:09:37.823 61664 4125092672 D0!! CTcpProcessConnector::CloseConnection(): Shutdown socket returned error 107: Transport endpoint is not connected, Errorcode=107
+2016/03/19 18:09:38.988    61    64 G0   RA: RemoteAudioSender get stopped
+2016/03/19 18:09:38.988    61    64 G0   RA: RemoteAudioSender get stopped
+2016/03/19 18:09:38.988    61    64 G0   WindowObserverGUI::SessionEnded: 0
+2016/03/19 18:09:38.988    61    64 G0!! CCGUIStateManager::GetStatusMessageText() exception: boost::too_many_args: format-string referred to less arguments than were passed
+2016/03/19 18:11:34.982    61    64 G0   CTcpProcessConnector::HandleRead(): Socket gracefully closed (PID=59587)
+2016/03/19 18:11:34.982    61    64 G0   CTcpProcessConnector::CloseConnection(): PID=59587
+2016/03/19 18:11:34.982    61    64 G0!  CInterProcess::EventFunction(): IPC-Connection Closed
+2016/03/19 18:11:34.982    61    64 G0   CTcpProcessConnector::CloseConnection(): PID=59587
+2016/03/19 18:11:34.982    61    64 G0!! CTcpProcessConnector::CloseConnection(): Shutdown socket returned error 10058: Unknown error, Errorcode=317
+2016/03/19 18:11:34.982    61    64 G0!! CTcpProcessConnector::CloseConnection(): Shutdown socket returned error 10009: Unknown error, Errorcode=317

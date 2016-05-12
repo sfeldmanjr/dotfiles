@@ -1,0 +1,18 @@
+TeamViewer:        9.0.32150 - DEB
+Profile:           /home/user (user)
+Desktop:           DS: 'i3' 	XDG: 'i3'
+XServer TTY:       7
+
+DistArch:          x86_64	( Loader:	[X] ld32	[X] ld64 )
+Distribution:
+      Distributor ID:	Ubuntu
+      Description:	Ubuntu 15.10
+      Release:	15.10
+      Codename:	wily
+ok (info)
+
+err:ole:CoGetClassObject class {4315d437-5b8c-11d0-bd3b-00a0c911ce86} not registered
+err:ole:CoGetClassObject class {4315d437-5b8c-11d0-bd3b-00a0c911ce86} not registered
+err:ole:CoGetClassObject no class object {4315d437-5b8c-11d0-bd3b-00a0c911ce86} could be created for context 0x3
+wine: configuration in '/home/user/.config/teamviewer9' has been updated.
+ok (profile)
